@@ -1,0 +1,12 @@
+# Personal QTTabBar configuration profiles
+config/*.xml
+
+# AutoHotkey compiled binaries
+*.exe
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Editor files
+.vscode/
